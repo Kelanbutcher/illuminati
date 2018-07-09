@@ -1,7 +1,6 @@
 def setup():
     size(450,450) #parameters
     r= random(0, 250)
-    background (r,r,r)
     stroke (100,255,0)
     fill(15)
     leaf = 255
